@@ -100,32 +100,32 @@ class Dashboard extends Component {
                 <tbody>
                   <tr>
                     <td>1</td>
-                    <td>Alice</td>
-                    <td>alice@email.com</td>
+                    <td>vineet khola</td>
+                    <td>vineetkhola21@gmail.com</td>
                     <td>
                       <span className="py-0 px-1 bg-success rounded text-white">active</span>
                     </td>
                   </tr>
                   <tr>
                     <td>2</td>
-                    <td>Bob</td>
-                    <td>bob@email.com</td>
+                    <td>Ajeet</td>
+                    <td>ajeetsingh@gmail.com</td>
                     <td>
                       <span className="py-0 px-1 bg-warning rounded text-white">delayed</span>
                     </td>
                   </tr>
                   <tr>
                     <td>3</td>
-                    <td>Duck</td>
-                    <td>duck@email.com</td>
+                    <td>Sheele</td>
+                    <td>sheelay1972@gmail.com</td>
                     <td>
                       <span className="py-0 px-1 bg-success rounded text-white">active</span>
                     </td>
                   </tr>
                   <tr>
                     <td>4</td>
-                    <td>Shepherd</td>
-                    <td>shepherd@email.com</td>
+                    <td>Sujata</td>
+                    <td>sujatay301@gmail.com</td>
                     <td>
                       <span className="py-0 px-1 bg-danger rounded text-white">removed</span>
                     </td>
